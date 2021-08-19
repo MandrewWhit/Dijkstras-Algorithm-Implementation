@@ -1,2 +1,2 @@
-# Dijkstras-Algorithm-Implementation
-Simple shortest path algorithm implementation
+# Gale-Shapley-Matching-Algorithm
+Matching students to residencies using Gale-Shapley Mathcing approach
